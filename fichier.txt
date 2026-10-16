@@ -1,6 +1,4 @@
 Ligne 1 : modifications de main et de feature-c
-Ligne 1 modifiée sur main
-Ligne 1 modifiée sur feature-c
 Ligne 2
 Ligne 3
 Ligne 4 - feature-a
